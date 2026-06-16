@@ -58,4 +58,4 @@ If you have any questions regarding privacy while using the Application, or have
 
 ---
 
-[日本語](./ja.md)
+[简体中文](./zh-Hans.md) · [繁體中文](./zh-Hant.md) · [日本語](./ja.md)

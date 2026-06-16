@@ -58,4 +58,4 @@
 
 ---
 
-[English](./en.md)
+[English](./en.md) · [简体中文](./zh-Hans.md) · [繁體中文](./zh-Hant.md)
